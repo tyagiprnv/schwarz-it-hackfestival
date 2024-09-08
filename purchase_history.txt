@@ -1,0 +1,40 @@
+Company name: Company_1, Item Name: Brown Rice, Purchase Date: 2024-10-26, Quantity: 42
+Company name: Company_1, Item Name: Rice Cakes, Purchase Date: 2025-07-12, Quantity: 13
+Company name: Company_1, Item Name: Brown Rice Cakes, Purchase Date: 2025-07-12, Quantity: 47
+Company name: Company_2, Item Name: Basmati Rice, Purchase Date: 2024-10-09, Quantity: 12
+Company name: Company_2, Item Name: Rice Cakes, Purchase Date: 2025-07-12, Quantity: 39
+Company name: Company_3, Item Name: Lemons, Purchase Date: 2024-12-08, Quantity: 2
+Company name: Company_3, Item Name: Cherry Tomatoes, Purchase Date: 2024-09-05, Quantity: 10
+Company name: Company_3, Item Name: Green Zucchini, Purchase Date: 2024-09-15, Quantity: 43
+Company name: Company_4, Item Name: Lemons, Purchase Date: 2024-12-08, Quantity: 6
+Company name: Company_5, Item Name: Gluten-Free Bread, Purchase Date: 2024-12-31, Quantity: 40
+Company name: Company_5, Item Name: Whipping Cream, Purchase Date: 2024-10-06, Quantity: 2
+Company name: Company_6, Item Name: Brown Rice Cakes, Purchase Date: 2025-07-16, Quantity: 4
+Company name: Company_6, Item Name: Rice Cakes, Purchase Date: 2025-07-12, Quantity: 13
+Company name: Company_6, Item Name: Brown Rice, Purchase Date: 2024-10-30, Quantity: 24
+Company name: Company_7, Item Name: Avocados, Purchase Date: 2025-02-07, Quantity: 7
+Company name: Company_8, Item Name: Lemons, Purchase Date: 2024-12-08, Quantity: 32
+Company name: Company_9, Item Name: Brown Rice, Purchase Date: 2024-10-31, Quantity: 36
+Company name: Company_9, Item Name: Rice Cakes, Purchase Date: 2025-07-12, Quantity: 24
+Company name: Company_10, Item Name: Brown Rice, Purchase Date: 2024-10-30, Quantity: 13
+Company name: Company_10, Item Name: Rice Cakes, Purchase Date: 2025-07-12, Quantity: 36
+Company name: Company_11, Item Name: Green Zucchini, Purchase Date: 2024-09-11, Quantity: 14
+Company name: Company_11, Item Name: Yellow Bell Peppers, Purchase Date: 2024-10-02, Quantity: 35
+Company name: Company_11, Item Name: Instant Oatmeal with Fruits and Nuts, Purchase Date: 2025-02-14, Quantity: 7
+Company name: Company_12, Item Name: Avocados, Purchase Date: 2025-02-07, Quantity: 17
+Company name: Company_13, Item Name: Brown Rice Cakes, Purchase Date: 2025-07-16, Quantity: 49
+Company name: Company_13, Item Name: Basmati Rice, Purchase Date: 2024-10-09, Quantity: 47
+Company name: Company_14, Item Name: Wheat Flour, Purchase Date: 2025-05-02, Quantity: 39
+Company name: Company_14, Item Name: Cream Cheese, Purchase Date: 2024-11-07, Quantity: 13
+Company name: Company_14, Item Name: Salted Butter, Purchase Date: 2024-11-16, Quantity: 13
+Company name: Company_15, Item Name: Organic Spinach, Purchase Date: 2024-10-20, Quantity: 44
+Company name: Company_15, Item Name: Rye Bread, Purchase Date: 2024-09-21, Quantity: 16
+Company name: Company_16, Item Name: Garlic Naan Bread (2 pieces), Purchase Date: 2025-04-29, Quantity: 44
+Company name: Company_16, Item Name: Sourdough Bread, Purchase Date: 2024-09-21, Quantity: 34
+Company name: Company_17, Item Name: Basmati Rice, Purchase Date: 2024-10-10, Quantity: 37
+Company name: Company_18, Item Name: Avocados, Purchase Date: 2024-09-30, Quantity: 27
+Company name: Company_18, Item Name: Avocados, Purchase Date: 2025-02-07, Quantity: 50
+Company name: Company_19, Item Name: Frozen Breaded Shrimp, Purchase Date: 2025-08-25, Quantity: 28
+Company name: Company_19, Item Name: Gluten-Free Bread, Purchase Date: 2024-12-26, Quantity: 21
+Company name: Company_19, Item Name: Gluten-Free Bread, Purchase Date: 2024-12-26, Quantity: 42
+Company name: Company_20, Item Name: Frozen Breaded Fish Sticks, Purchase Date: 2025-11-02, Quantity: 49

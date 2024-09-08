@@ -1,0 +1,353 @@
+Item Name: Organic Cherry Tomatoes, Quantity: 48, Expiry Date: 2024-09-23
+Item Name: Sweet Potatoes, Quantity: 23, Expiry Date: 2024-10-15
+Item Name: Broccoli Florets, Quantity: 17, Expiry Date: 2024-09-18
+Item Name: Red Bell Peppers, Quantity: 62, Expiry Date: 2024-12-02
+Item Name: Baby Spinach, Quantity: 8, Expiry Date: 2024-09-27
+Item Name: White Onions, Quantity: 41, Expiry Date: 2025-01-10
+Item Name: Carrots, Quantity: 35, Expiry Date: 2024-11-28
+Item Name: Garlic Bulb, Quantity: 78, Expiry Date: 2025-03-15
+Item Name: Green Zucchini, Quantity: 29, Expiry Date: 2024-09-21
+Item Name: Asparagus, Quantity: 12, Expiry Date: 2024-09-16
+Item Name: Mushrooms, Quantity: 5, Expiry Date: 2024-09-29
+Item Name: Avocados, Quantity: 34, Expiry Date: 2024-10-05
+Item Name: Cucumbers, Quantity: 27, Expiry Date: 2024-11-12
+Item Name: Kale, Quantity: 14, Expiry Date: 2024-09-19
+Item Name: Red Onions, Quantity: 53, Expiry Date: 2025-02-22
+Item Name: Lemons, Quantity: 89, Expiry Date: 2024-12-18
+Item Name: Ginger, Quantity: 62, Expiry Date: 2025-04-05
+Item Name: Celery Stalks, Quantity: 21, Expiry Date: 2024-10-29
+Item Name: Green Beans, Quantity: 19, Expiry Date: 2024-09-25
+Item Name: Sweet Corn, Quantity: 47, Expiry Date: 2024-11-08
+Item Name: Butternut Squash, Quantity: 12, Expiry Date: 2024-10-21
+Item Name: Cauliflower Head, Quantity: 25, Expiry Date: 2024-09-26
+Item Name: Yellow Bell Peppers, Quantity: 31, Expiry Date: 2024-10-12
+Item Name: Arugula, Quantity: 6, Expiry Date: 2024-09-19
+Item Name: Shallots, Quantity: 38, Expiry Date: 2024-11-05
+Item Name: Parsnips, Quantity: 29, Expiry Date: 2024-10-08
+Item Name: Fresh Turmeric Root, Quantity: 15, Expiry Date: 2025-02-18
+Item Name: Yellow Zucchini, Quantity: 22, Expiry Date: 2024-12-29
+Item Name: Brussels Sprouts, Quantity: 18, Expiry Date: 2024-10-14
+Item Name: Portobello Mushrooms, Quantity: 11, Expiry Date: 2025-01-22
+Item Name: Roma Tomatoes, Quantity: 43, Expiry Date: 2024-09-28
+Item Name: Leeks, Quantity: 21, Expiry Date: 2024-11-19
+Item Name: Swiss Chard, Quantity: 16, Expiry Date: 2025-03-08
+Item Name: Pickling Onions, Quantity: 47, Expiry Date: 2024-10-25
+Item Name: Limes, Quantity: 74, Expiry Date: 2024-12-05
+Item Name: Fresh Galangal, Quantity: 8, Expiry Date: 2025-01-15
+Item Name: Fennel Bulb, Quantity: 26, Expiry Date: 2024-11-22
+Item Name: Sugar Snap Peas, Quantity: 14, Expiry Date: 2024-09-17
+Item Name: Rainbow Chard, Quantity: 9, Expiry Date: 2025-02-01
+Item Name: Radishes, Quantity: 33, Expiry Date: 2024-10-03
+Item Name: Organic Spinach, Quantity: 17, Expiry Date: 2024-10-25
+Item Name: Green Bell Pepper, Quantity: 28, Expiry Date: 2024-09-22
+Item Name: Baby Carrots, Quantity: 42, Expiry Date: 2024-11-01
+Item Name: Red Onion, Quantity: 35, Expiry Date: 2024-10-18
+Item Name: Garlic Bulb, Quantity: 51, Expiry Date: 2024-12-15
+Item Name: Celery Sticks, Quantity: 23, Expiry Date: 2024-09-29
+Item Name: Sweet Potatoes, Quantity: 39, Expiry Date: 2025-01-05
+Item Name: Cherry Tomatoes, Quantity: 19, Expiry Date: 2024-09-15
+Item Name: Asparagus Spears, Quantity: 13, Expiry Date: 2024-10-02
+Item Name: Brokkoli, Quantity: 27, Expiry Date: 2024-11-20
+Item Name: Ginger Root, Quantity: 45, Expiry Date: 2024-12-28
+Item Name: Green Beans, Quantity: 21, Expiry Date: 2024-09-20
+Item Name: Corn on the Cob, Quantity: 33, Expiry Date: 2024-10-10
+Item Name: Avocados, Quantity: 49, Expiry Date: 2025-02-12
+Item Name: Cucumber, Quantity: 37, Expiry Date: 2024-09-27
+Item Name: White Mushrooms, Quantity: 25, Expiry Date: 2024-11-14
+Item Name: Iceberg Lettuce, Quantity: 41, Expiry Date: 2024-10-05
+Item Name: Potatoes, Quantity: 53, Expiry Date: 2025-03-01
+Item Name: Sweet Peppers Mix, Quantity: 15, Expiry Date: 2024-10-29
+Item Name: Pink Lady Apples, Quantity: 40, Expiry Date: 2024-10-20
+Item Name: Black Grapes, Quantity: 12, Expiry Date: 2024-09-18
+Item Name: Pineapple, Quantity: 25, Expiry Date: 2024-10-02
+Item Name: Mango, Quantity: 31, Expiry Date: 2024-09-25
+Item Name: Watermelon, Quantity: 8, Expiry Date: 2024-12-15
+Item Name: Cantaloupe Melon, Quantity: 16, Expiry Date: 2024-11-05
+Item Name: Strawberries, Quantity: 28, Expiry Date: 2024-09-16
+Item Name: Blueberries, Quantity: 45, Expiry Date: 2025-01-20
+Item Name: Raspberries, Quantity: 19, Expiry Date: 2024-09-28
+Item Name: Kiwi, Quantity: 52, Expiry Date: 2024-10-12
+Item Name: Passion Fruit, Quantity: 33, Expiry Date: 2025-03-05
+Item Name: Pomegranate, Quantity: 21, Expiry Date: 2024-11-18
+Item Name: Nectarines, Quantity: 17, Expiry Date: 2024-09-22
+Item Name: Apricots, Quantity: 29, Expiry Date: 2024-10-28
+Item Name: Plums, Quantity: 38, Expiry Date: 2025-02-10
+Item Name: Figs, Quantity: 14, Expiry Date: 2024-09-19
+Item Name: Blood Oranges, Quantity: 26, Expiry Date: 2024-11-02
+Item Name: Clementines, Quantity: 41, Expiry Date: 2024-12-28
+Item Name: Grapefruit, Quantity: 18, Expiry Date: 2025-01-15
+Item Name: Green Apples, Quantity: 35, Expiry Date: 2024-10-26
+Item Name: Honeycrisp Apples, Quantity: 28, Expiry Date: 2024-10-25
+Item Name: Red Seedless Grapes, Quantity: 33, Expiry Date: 2024-09-21
+Item Name: Golden Pineapple, Quantity: 19, Expiry Date: 2024-10-09
+Item Name: Ataulfo Mangoes, Quantity: 22, Expiry Date: 2025-01-18
+Item Name: Mini Watermelon, Quantity: 15, Expiry Date: 2024-11-01
+Item Name: Galia Melon, Quantity: 29, Expiry Date: 2024-10-18
+Item Name: Organic Strawberries, Quantity: 11, Expiry Date: 2025-02-15
+Item Name: Blackberries, Quantity: 26, Expiry Date: 2024-09-29
+Item Name: Golden Raspberries, Quantity: 17, Expiry Date: 2024-11-22
+Item Name: Green Kiwifruit, Quantity: 38, Expiry Date: 2024-10-29
+Item Name: Banana Passion Fruit, Quantity: 23, Expiry Date: 2025-03-12
+Item Name: Organic Pomegranate, Quantity: 35, Expiry Date: 2024-11-15
+Item Name: White Nectarines, Quantity: 21, Expiry Date: 2024-10-05
+Item Name: Black Apricots, Quantity: 13, Expiry Date: 2025-01-25
+Item Name: Black Plums, Quantity: 47, Expiry Date: 2024-12-02
+Item Name: Brown Turkey Figs, Quantity: 9, Expiry Date: 2024-09-26
+Item Name: Cara Cara Oranges, Quantity: 42, Expiry Date: 2024-10-12
+Item Name: Honey Tangerines, Quantity: 31, Expiry Date: 2025-02-22
+Item Name: Pink Grapefruit, Quantity: 27, Expiry Date: 2024-11-29
+Item Name: Ground Cinnamon, Quantity: 32, Expiry Date: 2025-04-12
+Item Name: Dried Oregano, Quantity: 18, Expiry Date: 2025-02-28
+Item Name: Whole Black Peppercorns, Quantity: 25, Expiry Date: 2024-09-25
+Item Name: Smoked Paprika, Quantity: 14, Expiry Date: 2025-01-15
+Item Name: Ground Turmeric, Quantity: 41, Expiry Date: 2024-10-02
+Item Name: Crushed Chili Flakes, Quantity: 28, Expiry Date: 2025-06-21
+Item Name: Sea Salt Flakes, Quantity: 35, Expiry Date: 2025-08-18
+Item Name: Dried Rosemary, Quantity: 21, Expiry Date: 2024-09-29
+Item Name: Ground Cumin, Quantity: 19, Expiry Date: 2025-03-05
+Item Name: Bay Leaves, Quantity: 48, Expiry Date: 2025-09-12
+Item Name: Ground Coriander, Quantity: 33, Expiry Date: 2024-10-18
+Item Name: Garlic Powder, Quantity: 26, Expiry Date: 2025-07-25
+Item Name: Onion Powder, Quantity: 17, Expiry Date: 2025-05-09
+Item Name: Dried Basil, Quantity: 39, Expiry Date: 2024-09-17
+Item Name: Dried Thyme, Quantity: 22, Expiry Date: 2025-11-02
+Item Name: Ground Nutmeg, Quantity: 23, Expiry Date: 2025-03-18
+Item Name: Whole Cloves, Quantity: 45, Expiry Date: 2025-05-12
+Item Name: Star Anise, Quantity: 17, Expiry Date: 2024-09-22
+Item Name: Cardamom Pods, Quantity: 31, Expiry Date: 2025-07-29
+Item Name: Saffron Threads, Quantity: 8, Expiry Date: 2025-09-15
+Item Name: Pink Himalayan Salt, Quantity: 38, Expiry Date: 2025-12-02
+Item Name: Black Mustard Seeds, Quantity: 26, Expiry Date: 2024-10-14
+Item Name: Fenugreek Seeds, Quantity: 19, Expiry Date: 2025-02-22
+Item Name: Cumin Seeds, Quantity: 42, Expiry Date: 2025-04-05
+Item Name: Coriander Seeds, Quantity: 35, Expiry Date: 2024-09-18
+Item Name: Dried Tarragon, Quantity: 21, Expiry Date: 2025-06-15
+Item Name: Herbes de Provence, Quantity: 14, Expiry Date: 2025-10-28
+Item Name: Poultry Seasoning, Quantity: 29, Expiry Date: 2024-11-12
+Item Name: Pumpkin Pie Spice, Quantity: 18, Expiry Date: 2025-01-10
+Item Name: Apple Pie Spice, Quantity: 25, Expiry Date: 2025-08-05
+Item Name: Organic Whole Milk, Quantity: 12, Expiry Date: 2024-10-25
+Item Name: Cheddar Cheese Slices, Quantity: 8, Expiry Date: 2024-12-01
+Item Name: Greek Yogurt, Honey Flavour, Quantity: 24, Expiry Date: 2024-10-18
+Item Name: Unsalted Butter, Quantity: 15, Expiry Date: 2024-11-15
+Item Name: Lactose-Free Milk, Quantity: 5, Expiry Date: 2024-10-28
+Item Name: Sour Cream, Quantity: 10, Expiry Date: 2024-11-08
+Item Name: Mozzarella Cheese, Shredded, Quantity: 12, Expiry Date: 2025-01-10
+Item Name: Vanilla Yogurt, Low Fat, Quantity: 18, Expiry Date: 2024-10-22
+Item Name: Parmesan Cheese, Grated, Quantity: 6, Expiry Date: 2025-02-15
+Item Name: Whipping Cream, Quantity: 9, Expiry Date: 2024-10-16
+Item Name: Cottage Cheese, Quantity: 7, Expiry Date: 2024-11-02
+Item Name: Swiss Cheese, Quantity: 4, Expiry Date: 2024-12-28
+Item Name: Strawberry Yogurt, Greek Style, Quantity: 15, Expiry Date: 2024-10-29
+Item Name: Salted Butter, Quantity: 11, Expiry Date: 2024-11-22
+Item Name: Soy Milk, Unsweetened, Quantity: 8, Expiry Date: 2025-01-05
+Item Name: Cream Cheese, Quantity: 13, Expiry Date: 2024-11-12
+Item Name: Feta Cheese, Quantity: 5, Expiry Date: 2024-12-18
+Item Name: Blueberry Yogurt, Low Fat, Quantity: 20, Expiry Date: 2024-10-19
+Item Name: Gorgonzola Cheese, Quantity: 3, Expiry Date: 2025-03-08
+Item Name: Coconut Milk, Quantity: 10, Expiry Date: 2025-02-22
+Item Name: Semi-Skimmed Milk, Quantity: 15, Expiry Date: 2024-10-23
+Item Name: Gouda Cheese, Quantity: 7, Expiry Date: 2024-12-15
+Item Name: Mango Yogurt, Quantity: 22, Expiry Date: 2024-10-17
+Item Name: Butter Milk, Quantity: 11, Expiry Date: 2024-11-10
+Item Name: Provolone Cheese, Quantity: 4, Expiry Date: 2025-01-22
+Item Name: Peach Yogurt, Greek Style, Quantity: 16, Expiry Date: 2024-10-27
+Item Name: Ricotta Cheese, Quantity: 9, Expiry Date: 2024-11-05
+Item Name: Edam Cheese, Quantity: 6, Expiry Date: 2024-12-20
+Item Name: Raspberry Yogurt, Low Fat, Quantity: 19, Expiry Date: 2025-01-08
+Item Name: Mascarpone Cheese, Quantity: 5, Expiry Date: 2024-11-13
+Item Name: Almond Milk, Unsweetened, Quantity: 10, Expiry Date: 2025-02-18
+Item Name: Double Cream, Quantity: 8, Expiry Date: 2024-10-19
+Item Name: Parmigiano Reggiano Cheese, Quantity: 3, Expiry Date: 2025-03-12
+Item Name: Lemon Yogurt, Quantity: 21, Expiry Date: 2024-10-21
+Item Name: Halloumi Cheese, Quantity: 7, Expiry Date: 2024-11-28
+Item Name: Vanilla Soy Milk, Quantity: 9, Expiry Date: 2025-01-15
+Item Name: Crème Fraîche, Quantity: 12, Expiry Date: 2024-11-07
+Item Name: Pecorino Romano Cheese, Quantity: 4, Expiry Date: 2025-02-25
+Item Name: Plain Yogurt, Greek Style, Quantity: 14, Expiry Date: 2024-10-25
+Item Name: Oat Milk, Quantity: 8, Expiry Date: 2025-01-29
+Item Name: Smoked Salmon Fillet, Quantity: 8, Expiry Date: 2024-10-25
+Item Name: Frozen Cod Fillets, Quantity: 25, Expiry Date: 2025-03-15
+Item Name: Fresh Tuna Steak, Quantity: 5, Expiry Date: 2024-09-18
+Item Name: Canned Sardines in Oil, Quantity: 48, Expiry Date: 2026-01-10
+Item Name: Fresh Salmon Fillets, Quantity: 12, Expiry Date: 2024-09-22
+Item Name: Frozen Shrimp (peeled & deveined), Quantity: 30, Expiry Date: 2025-08-02
+Item Name: Smoked Mackerel Fillet, Quantity: 18, Expiry Date: 2024-11-05
+Item Name: Canned Tuna in Brine, Quantity: 62, Expiry Date: 2025-12-18
+Item Name: Fresh Tilapia Fillets, Quantity: 9, Expiry Date: 2024-09-16
+Item Name: Frozen Salmon Burgers, Quantity: 21, Expiry Date: 2025-04-22
+Item Name: Smoked Haddock Fillet, Quantity: 15, Expiry Date: 2024-10-30
+Item Name: Canned Anchovies in Oil, Quantity: 38, Expiry Date: 2026-05-08
+Item Name: Fresh Swordfish Steak, Quantity: 4, Expiry Date: 2024-09-20
+Item Name: Frozen Fish Fingers, Quantity: 35, Expiry Date: 2025-07-12
+Item Name: Smoked Trout Fillet, Quantity: 11, Expiry Date: 2024-11-12
+Item Name: Canned Salmon in Water, Quantity: 55, Expiry Date: 2025-09-28
+Item Name: Fresh Red Snapper, Quantity: 3, Expiry Date: 2024-09-17
+Item Name: Frozen Haddock Fillets, Quantity: 28, Expiry Date: 2025-06-05
+Item Name: Smoked Kipper, Quantity: 19, Expiry Date: 2024-10-28
+Item Name: Canned Tuna in Oil, Quantity: 71, Expiry Date: 2026-03-11
+Item Name: Wild Alaskan Salmon Fillets, Quantity: 7, Expiry Date: 2024-10-23
+Item Name: Fresh Atlantic Cod, Quantity: 3, Expiry Date: 2024-09-21
+Item Name: Smoked Herring Fillets in Oil, Quantity: 22, Expiry Date: 2025-04-18
+Item Name: Frozen Breaded Fish Sticks, Quantity: 41, Expiry Date: 2025-11-07
+Item Name: Fresh Rainbow Trout, Quantity: 6, Expiry Date: 2024-09-19
+Item Name: Frozen White Fish Fillets, Quantity: 27, Expiry Date: 2025-07-29
+Item Name: Canned Mackerel in Tomato Sauce, Quantity: 58, Expiry Date: 2026-02-15
+Item Name: Fresh Sea Bass, Quantity: 2, Expiry Date: 2024-09-25
+Item Name: Frozen Breaded Shrimp, Quantity: 33, Expiry Date: 2025-09-04
+Item Name: Smoked Salmon (Sliced), Quantity: 14, Expiry Date: 2024-11-01
+Item Name: Canned Tuna Chunks in Oil, Quantity: 65, Expiry Date: 2026-06-22
+Item Name: Fresh Halibut Steaks, Quantity: 4, Expiry Date: 2024-09-28
+Item Name: Frozen Whiting Fillets, Quantity: 29, Expiry Date: 2025-05-14
+Item Name: Smoked Cod Fillets (Peppered), Quantity: 17, Expiry Date: 2024-10-27
+Item Name: Canned Sardines in Tomato Sauce, Quantity: 51, Expiry Date: 2025-12-05
+Item Name: Fresh Monkfish Fillets, Quantity: 8, Expiry Date: 2024-09-15
+Item Name: Frozen Salmon Fillets (Skinless), Quantity: 19, Expiry Date: 2025-08-19
+Item Name: Smoked Mackerel (Whole), Quantity: 12, Expiry Date: 2024-11-09
+Item Name: Canned Tuna in Spring Water, Quantity: 78, Expiry Date: 2026-03-28
+Item Name: Fresh Swordfish Steaks, Quantity: 5, Expiry Date: 2024-09-23
+Item Name: Beef Tenderloin Steak, Quantity: 8, Expiry Date: 2024-10-23
+Item Name: Pork Chops (Boneless), Quantity: 15, Expiry Date: 2024-10-17
+Item Name: Chicken Breast Fillets, Quantity: 23, Expiry Date: 2024-09-28
+Item Name: Ground Beef (Lean), Quantity: 12, Expiry Date: 2024-12-05
+Item Name: Lamb Leg Roast, Quantity: 6, Expiry Date: 2024-11-12
+Item Name: Salmon Fillet (Skin On), Quantity: 18, Expiry Date: 2024-10-21
+Item Name: Turkey Breast (Sliced), Quantity: 10, Expiry Date: 2025-01-15
+Item Name: Duck Breast (Frozen), Quantity: 5, Expiry Date: 2025-03-08
+Item Name: Veal Cutlets, Quantity: 3, Expiry Date: 2024-11-29
+Item Name: Ground Pork, Quantity: 9, Expiry Date: 2024-10-19
+Item Name: Beef Short Ribs, Quantity: 4, Expiry Date: 2024-12-28
+Item Name: Chicken Thighs (Boneless), Quantity: 17, Expiry Date: 2024-09-25
+Item Name: Smoked Bacon, Quantity: 11, Expiry Date: 2024-11-05
+Item Name: Beef Sirloin Steak, Quantity: 7, Expiry Date: 2025-02-14
+Item Name: Pork Loin Roast, Quantity: 13, Expiry Date: 2024-10-30
+Item Name: Chicken Drumsticks, Quantity: 20, Expiry Date: 2024-09-22
+Item Name: Ground Lamb, Quantity: 8, Expiry Date: 2024-12-01
+Item Name: Beef Brisket, Quantity: 5, Expiry Date: 2025-01-22
+Item Name: Turkey Sausages, Quantity: 14, Expiry Date: 2024-11-18
+Item Name: Chicken Wings, Quantity: 22, Expiry Date: 2024-10-05
+Item Name: Organic Grass-Fed Beef Patties, Quantity: 12, Expiry Date: 2024-12-15
+Item Name: Free-Range Chicken Leg Quarters, Quantity: 18, Expiry Date: 2024-09-23
+Item Name: Smoked Pork Belly, Quantity: 7, Expiry Date: 2024-11-08
+Item Name: Grass-Fed Lamb Chops, Quantity: 5, Expiry Date: 2025-01-03
+Item Name: Wild-Caught Cod Fillets, Quantity: 14, Expiry Date: 2024-10-19
+Item Name: Organic Ground Turkey, Quantity: 9, Expiry Date: 2024-12-21
+Item Name: Peking Duck (Whole), Quantity: 3, Expiry Date: 2025-02-18
+Item Name: Veal Scaloppine, Quantity: 6, Expiry Date: 2024-11-26
+Item Name: Pork Spare Ribs, Quantity: 11, Expiry Date: 2024-10-28
+Item Name: Chicken Sausage (Italian), Quantity: 16, Expiry Date: 2024-09-21
+Item Name: Beef Eye Round Roast, Quantity: 4, Expiry Date: 2025-01-11
+Item Name: Chicken Breast (Skinless, Boneless), Quantity: 21, Expiry Date: 2024-09-26
+Item Name: Applewood Smoked Bacon, Quantity: 8, Expiry Date: 2024-11-02
+Item Name: Sirloin Steak (Grass-Fed), Quantity: 7, Expiry Date: 2025-02-09
+Item Name: Pork Tenderloin Medallions, Quantity: 13, Expiry Date: 2024-10-25
+Item Name: Chicken Drumsticks (Organic), Quantity: 19, Expiry Date: 2024-09-19
+Item Name: Ground Lamb (Lean), Quantity: 10, Expiry Date: 2024-12-18
+Item Name: Beef Chuck Roast, Quantity: 5, Expiry Date: 2025-01-25
+Item Name: Turkey Kielbasa Sausage, Quantity: 14, Expiry Date: 2024-11-15
+Item Name: Chicken Wings (Party Pack), Quantity: 22, Expiry Date: 2024-10-03
+Item Name: Salami Napoli Sliced, Quantity: 12, Expiry Date: 2024-10-25
+Item Name: Smoked Ham Bavarian Style, Quantity: 8, Expiry Date: 2024-12-05
+Item Name: Pepperoni Sticks Spicy, Quantity: 25, Expiry Date: 2024-09-18
+Item Name: Black Forest Ham Sliced, Quantity: 5, Expiry Date: 2024-11-12
+Item Name: Chorizo Sausage Mild, Quantity: 18, Expiry Date: 2024-10-11
+Item Name: Prosciutto Crudo Sliced, Quantity: 3, Expiry Date: 2025-01-15
+Item Name: Bratwurst White Sausage, Quantity: 10, Expiry Date: 2024-09-28
+Item Name: Landjäger Dry Cured Sausage, Quantity: 30, Expiry Date: 2025-03-08
+Item Name: Mortadella Bologna Sliced, Quantity: 6, Expiry Date: 2024-10-21
+Item Name: Cumberland Sausage Spicy, Quantity: 14, Expiry Date: 2024-11-03
+Item Name: Beef Jerky Original, Quantity: 22, Expiry Date: 2025-02-12
+Item Name: Salami Milano Sliced, Quantity: 9, Expiry Date: 2024-10-17
+Item Name: Smoked Bacon Sliced, Quantity: 11, Expiry Date: 2024-09-23
+Item Name: Frankfurter Sausage, Quantity: 17, Expiry Date: 2024-10-05
+Item Name: Coppa Italian Dry-cured Ham, Quantity: 4, Expiry Date: 2025-04-21
+Item Name: Nürnberger Sausage, Quantity: 19, Expiry Date: 2024-10-14
+Item Name: Bresaola Air-dried Beef, Quantity: 2, Expiry Date: 2025-01-28
+Item Name: Cabanossi Spicy Sausage, Quantity: 28, Expiry Date: 2024-11-27
+Item Name: Lyoner Sausage Sliced, Quantity: 7, Expiry Date: 2024-09-30
+Item Name: Teewurst German Sausage Spread, Quantity: 15, Expiry Date: 2024-12-18
+Item Name: Whole Wheat Spaghetti, Quantity: 24, Expiry Date: 2025-03-12
+Item Name: Quinoa, Quantity: 8, Expiry Date: 2024-10-23
+Item Name: Corn Flakes, Quantity: 15, Expiry Date: 2025-01-19
+Item Name: Brown Rice, Quantity: 32, Expiry Date: 2024-11-05
+Item Name: Oatmeal, Quantity: 12, Expiry Date: 2025-04-08
+Item Name: Couscous, Quantity: 27, Expiry Date: 2024-09-18
+Item Name: Polenta, Quantity: 18, Expiry Date: 2025-02-28
+Item Name: Buckwheat, Quantity: 5, Expiry Date: 2024-12-01
+Item Name: Millet, Quantity: 11, Expiry Date: 2025-06-15
+Item Name: Barley, Quantity: 29, Expiry Date: 2024-10-14
+Item Name: Rye Bread, Quantity: 6, Expiry Date: 2024-09-27
+Item Name: Baguettes (2 pieces), Quantity: 13, Expiry Date: 2024-09-15
+Item Name: Croissants (6 pieces), Quantity: 21, Expiry Date: 2024-09-12
+Item Name: Tortillas (6 pieces), Quantity: 19, Expiry Date: 2024-11-28
+Item Name: Pita Bread (4 pieces), Quantity: 26, Expiry Date: 2025-05-09
+Item Name: Naan Bread (2 pieces), Quantity: 17, Expiry Date: 2024-12-24
+Item Name: Gluten-Free Bread, Quantity: 9, Expiry Date: 2025-01-05
+Item Name: Rice Cakes, Quantity: 31, Expiry Date: 2025-07-22
+Item Name: Crackers, Quantity: 14, Expiry Date: 2025-03-08
+Item Name: Cereal Bars, Quantity: 23, Expiry Date: 2025-02-15
+Item Name: Organic Spelt Flour, Quantity: 12, Expiry Date: 2025-04-12
+Item Name: Durum Wheat Semolina Pasta, Quantity: 24, Expiry Date: 2024-09-25
+Item Name: Instant Oatmeal with Fruits and Nuts, Quantity: 15, Expiry Date: 2025-02-19
+Item Name: Basmati Rice, Quantity: 32, Expiry Date: 2024-10-15
+Item Name: Wheat Flour, Quantity: 12, Expiry Date: 2025-05-08
+Item Name: Instant Polenta, Quantity: 27, Expiry Date: 2024-09-18
+Item Name: Pearl Barley, Quantity: 18, Expiry Date: 2025-03-28
+Item Name: Organic Buckwheat Groats, Quantity: 5, Expiry Date: 2024-11-01
+Item Name: Hulled Millet, Quantity: 11, Expiry Date: 2025-07-15
+Item Name: Rye Berries, Quantity: 29, Expiry Date: 2024-10-24
+Item Name: Sourdough Bread, Quantity: 6, Expiry Date: 2024-09-27
+Item Name: Ciabatta Rolls (4 pieces), Quantity: 13, Expiry Date: 2024-09-15
+Item Name: Pain au Chocolat (2 pieces), Quantity: 21, Expiry Date: 2024-09-12
+Item Name: Whole Wheat Tortillas (8 pieces), Quantity: 19, Expiry Date: 2024-11-28
+Item Name: Garlic Naan Bread (2 pieces), Quantity: 26, Expiry Date: 2025-05-09
+Item Name: Gluten-Free Wraps (6 pieces), Quantity: 17, Expiry Date: 2024-12-24
+Item Name: Multigrain Bread, Quantity: 9, Expiry Date: 2025-01-05
+Item Name: Brown Rice Cakes, Quantity: 31, Expiry Date: 2025-07-22
+Item Name: Multigrain Crackers, Quantity: 14, Expiry Date: 2025-03-08
+Item Name: Oatmeal Raisin Cookies, Quantity: 23, Expiry Date: 2025-02-15
+Item Name: Whole Walnuts 500g, Quantity: 32, Expiry Date: 2024-10-23
+Item Name: Organic Chia Seeds 250g, Quantity: 18, Expiry Date: 2025-03-12
+Item Name: Roasted & Salted Pistachios 1kg, Quantity: 5, Expiry Date: 2024-09-18
+Item Name: Raw Pumpkin Seeds 100g, Quantity: 42, Expiry Date: 2025-01-14
+Item Name: Sunflower Seeds Shelled 500g, Quantity: 27, Expiry Date: 2024-12-05
+Item Name: Brazil Nuts Raw 200g, Quantity: 12, Expiry Date: 2025-04-21
+Item Name: Pine Nuts 100g, Quantity: 8, Expiry Date: 2024-11-08
+Item Name: Macadamia Nuts Roasted 150g, Quantity: 6, Expiry Date: 2025-02-28
+Item Name: Flax Seeds Milled 500g, Quantity: 35, Expiry Date: 2024-10-15
+Item Name: Hemp Seeds Hulled 250g, Quantity: 19, Expiry Date: 2025-06-03
+Item Name: Cashew Nuts Unsalted 1kg, Quantity: 14, Expiry Date: 2024-09-27
+Item Name: Pecans Halves 250g, Quantity: 9, Expiry Date: 2025-07-18
+Item Name: Hazelnuts Whole 500g, Quantity: 21, Expiry Date: 2024-11-21
+Item Name: Mixed Nuts & Berries Trail Mix 400g, Quantity: 38, Expiry Date: 2025-05-09
+Item Name: Sesame Seeds Black 100g, Quantity: 51, Expiry Date: 2024-10-05
+Item Name: Poppy Seeds 50g, Quantity: 62, Expiry Date: 2025-08-12
+Item Name: Almonds Sliced Blanched 200g, Quantity: 17, Expiry Date: 2024-12-19
+Item Name: Pumpkin Seed Butter 250g, Quantity: 11, Expiry Date: 2025-09-11
+Item Name: Sunflower Seed Butter 250g, Quantity: 23, Expiry Date: 2024-11-01
+Item Name: Tahini (Sesame Seed Paste) 500g, Quantity: 30, Expiry Date: 2025-04-30
+Item Name: Free Range Organic Eggs, 12 pcs, Quantity: 120, Expiry Date: 2024-10-25
+Item Name: Barn Eggs, Medium Size, 10 pcs, Quantity: 80, Expiry Date: 2024-09-18
+Item Name: Quail Eggs, 24 pcs, Quantity: 30, Expiry Date: 2024-11-05
+Item Name: Liquid Egg Whites, 500ml, Quantity: 45, Expiry Date: 2025-01-15
+Item Name: Duck Eggs, 6 pcs, Quantity: 15, Expiry Date: 2024-10-12
+Item Name: Organic Coconut Oil, Virgin, Quantity: 22, Expiry Date: 2025-03-12
+Item Name: Extra Virgin Olive Oil, Cold-Pressed, Quantity: 8, Expiry Date: 2024-09-25
+Item Name: Sunflower Oil, Quantity: 35, Expiry Date: 2024-11-08
+Item Name: Avocado Oil, Quantity: 5, Expiry Date: 2025-01-19
+Item Name: Sesame Oil, Toasted, Quantity: 12, Expiry Date: 2024-10-15
+Item Name: Grapeseed Oil, Quantity: 18, Expiry Date: 2025-04-02
+Item Name: Walnut Oil, Quantity: 3, Expiry Date: 2024-09-18
+Item Name: Flaxseed Oil, Quantity: 9, Expiry Date: 2024-12-28
+Item Name: Organic Ghee, Quantity: 6, Expiry Date: 2025-02-05
+Item Name: Peanut Oil, Quantity: 27, Expiry Date: 2024-10-02
+Item Name: Kidney Beans, Organic, 500g, Quantity: 63, Expiry Date: 2024-10-25
+Item Name: Chickpeas, Dried, 1kg, Quantity: 120, Expiry Date: 2025-03-11
+Item Name: Lentils, Green, 250g, Quantity: 48, Expiry Date: 2024-09-18
+Item Name: Black Beans, Canned, 400g, Quantity: 200, Expiry Date: 2025-08-02
+Item Name: Pinto Beans, Dried, 500g, Quantity: 75, Expiry Date: 2024-12-05
+Item Name: Mung Beans, Whole, 1kg, Quantity: 92, Expiry Date: 2025-01-14
+Item Name: Fava Beans, Dried, 250g, Quantity: 35, Expiry Date: 2024-11-09
+Item Name: Adzuki Beans, Organic, 500g, Quantity: 58, Expiry Date: 2025-04-22
+Item Name: Soybeans, Yellow, 1kg, Quantity: 110, Expiry Date: 2024-09-29
+Item Name: White Beans, Canned, 400g, Quantity: 180, Expiry Date: 2025-06-17

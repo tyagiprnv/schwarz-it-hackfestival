@@ -1,0 +1,41 @@
+,id,company_name,pincode,sector,item,price,date,expiresAt,purchase_quantity
+0,1,Company_1,98694,food_industry,Brown Rice,2.69,2024-10-26,2024-11-05,42
+1,1,Company_1,98694,food_industry,Rice Cakes,1.99,2025-07-12,2025-07-22,13
+2,1,Company_1,98694,food_industry,Brown Rice Cakes,2.49,2025-07-12,2025-07-22,47
+3,2,Company_2,98693,food_industry,Basmati Rice,3.99,2024-10-09,2024-10-15,12
+4,2,Company_2,98693,food_industry,Rice Cakes,1.99,2025-07-12,2025-07-22,39
+5,3,Company_3,98696,fruit_vendor,Lemons,0.69,2024-12-08,2024-12-18,2
+6,3,Company_3,98696,fruit_vendor,Cherry Tomatoes,2.79,2024-09-05,2024-09-15,10
+7,3,Company_3,98696,fruit_vendor,Green Zucchini,1.99,2024-09-15,2024-09-21,43
+8,4,Company_4,98694,clubs_and_bars,Lemons,0.69,2024-12-08,2024-12-18,6
+9,5,Company_5,98696,bakeries_and_pastry,Gluten-Free Bread,5.29,2024-12-31,2025-01-05,40
+10,5,Company_5,98696,bakeries_and_pastry,Whipping Cream,2.99,2024-10-06,2024-10-16,2
+11,6,Company_6,98696,food_industry,Brown Rice Cakes,2.49,2025-07-16,2025-07-22,4
+12,6,Company_6,98696,food_industry,Rice Cakes,1.99,2025-07-12,2025-07-22,13
+13,6,Company_6,98696,food_industry,Brown Rice,2.69,2024-10-30,2024-11-05,24
+14,7,Company_7,98694,clubs_and_bars,Avocados,1.89,2025-02-07,2025-02-12,7
+15,8,Company_8,98694,fruit_vendor,Lemons,0.69,2024-12-08,2024-12-18,32
+16,9,Company_9,98694,restaurants_and_cafe,Brown Rice,2.69,2024-10-31,2024-11-05,36
+17,9,Company_9,98694,restaurants_and_cafe,Rice Cakes,1.99,2025-07-12,2025-07-22,24
+18,10,Company_10,98694,food_industry,Brown Rice,2.69,2024-10-30,2024-11-05,13
+19,10,Company_10,98694,food_industry,Rice Cakes,1.99,2025-07-12,2025-07-22,36
+20,11,Company_11,98694,fruit_vendor,Green Zucchini,1.99,2024-09-11,2024-09-21,14
+21,11,Company_11,98694,fruit_vendor,Yellow Bell Peppers,1.39,2024-10-02,2024-10-12,35
+22,11,Company_11,98694,fruit_vendor,Instant Oatmeal with Fruits and Nuts,4.29,2025-02-14,2025-02-19,7
+23,12,Company_12,98693,clubs_and_bars,Avocados,1.89,2025-02-07,2025-02-12,17
+24,13,Company_13,98694,food_industry,Brown Rice Cakes,2.49,2025-07-16,2025-07-22,49
+25,13,Company_13,98694,food_industry,Basmati Rice,3.99,2024-10-09,2024-10-15,47
+26,14,Company_14,98694,bakeries_and_pastry,Wheat Flour,1.49,2025-05-02,2025-05-08,39
+27,14,Company_14,98694,bakeries_and_pastry,Cream Cheese,2.89,2024-11-07,2024-11-12,13
+28,14,Company_14,98694,bakeries_and_pastry,Salted Butter,4.19,2024-11-16,2024-11-22,13
+29,15,Company_15,98693,restaurants_and_cafe,Organic Spinach,2.99,2024-10-20,2024-10-25,44
+30,15,Company_15,98693,restaurants_and_cafe,Rye Bread,4.59,2024-09-21,2024-09-27,16
+31,16,Company_16,98694,bakeries_and_pastry,Garlic Naan Bread (2 pieces),2.29,2025-04-29,2025-05-09,44
+32,16,Company_16,98694,bakeries_and_pastry,Sourdough Bread,5.29,2024-09-21,2024-09-27,34
+33,17,Company_17,98694,food_industry,Basmati Rice,3.99,2024-10-10,2024-10-15,37
+34,18,Company_18,98694,clubs_and_bars,Avocados,2.29,2024-09-30,2024-10-05,27
+35,18,Company_18,98694,clubs_and_bars,Avocados,1.89,2025-02-07,2025-02-12,50
+36,19,Company_19,98693,restaurants_and_cafe,Frozen Breaded Shrimp,10.49,2025-08-25,2025-09-04,28
+37,19,Company_19,98693,restaurants_and_cafe,Gluten-Free Bread,5.29,2024-12-26,2025-01-05,21
+38,19,Company_19,98693,restaurants_and_cafe,Gluten-Free Bread,5.29,2024-12-26,2025-01-05,42
+39,20,Company_20,98693,restaurants_and_cafe,Frozen Breaded Fish Sticks,4.99,2025-11-02,2025-11-07,49
