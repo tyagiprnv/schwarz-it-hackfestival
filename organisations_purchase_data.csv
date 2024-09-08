@@ -1,0 +1,30 @@
+id,company_name,pincode,sector,purchase
+1,Company_1,98696,fruits_vendor,"[{'item': 'Free Range Organic Eggs, 12 pcs', 'price': 3.99, 'date': '2024-09-01', 'expiresAt': '2024-10-25'}, {'item': 'Red Bell Peppers', 'price': 1.29, 'date': '2024-09-10', 'expiresAt': '2024-12-02'}, {'item': 'Red Onion', 'price': 0.69, 'date': '2024-09-14', 'expiresAt': '2024-10-18'}]"
+2,Company_2,98693,fruits_vendor,"[{'item': 'Cherry Tomatoes', 'price': 2.79, 'date': '2024-09-23', 'expiresAt': '2024-09-15'}, {'item': 'Ginger', 'price': 1.59, 'date': '2024-09-17', 'expiresAt': '2025-04-05'}, {'item': 'Green Beans', 'price': 2.69, 'date': '2024-09-09', 'expiresAt': '2024-09-25'}]"
+3,Company_3,98693,cafe,"[{'item': 'Dried Oregano', 'price': 1.99, 'date': '2024-09-14', 'expiresAt': '2025-02-28'}]"
+4,Company_4,98696,cafe,"[{'item': 'Mozzarella Cheese, Shredded', 'price': 3.49, 'date': '2024-09-19', 'expiresAt': '2025-01-10'}, {'item': 'Watermelon', 'price': 5.99, 'date': '2024-09-28', 'expiresAt': '2024-12-15'}, {'item': 'Feta Cheese', 'price': 4.59, 'date': '2024-09-22', 'expiresAt': '2024-12-18'}]"
+5,Company_5,98696,restaurant,"[{'item': 'Black Grapes', 'price': 3.99, 'date': '2024-09-25', 'expiresAt': '2024-09-18'}, {'item': 'Blueberries', 'price': 5.79, 'date': '2024-09-22', 'expiresAt': '2025-01-20'}]"
+6,Company_6,98693,fruits_vendor,"[{'item': 'Black Apricots', 'price': 5.29, 'date': '2024-09-18', 'expiresAt': '2025-01-25'}, {'item': 'Organic Grass-Fed Beef Patties', 'price': 7.99, 'date': '2024-09-28', 'expiresAt': '2024-12-15'}]"
+7,Company_7,98696,restaurant,"[{'item': 'Frozen Salmon Fillets (Skinless)', 'price': 15.49, 'date': '2024-09-25', 'expiresAt': '2025-08-19'}]"
+8,Company_8,98696,restaurant,"[{'item': 'Cashew Nuts Unsalted 1kg', 'price': 9.99, 'date': '2024-09-18', 'expiresAt': '2024-09-27'}, {'item': 'Onion Powder', 'price': 1.59, 'date': '2024-09-18', 'expiresAt': '2025-05-09'}]"
+9,Company_9,98696,food_industry,"[{'item': 'Halloumi Cheese', 'price': 4.29, 'date': '2024-09-09', 'expiresAt': '2024-11-28'}, {'item': 'Beef Short Ribs', 'price': 13.79, 'date': '2024-09-15', 'expiresAt': '2024-12-28'}]"
+10,Company_10,98693,club,"[{'item': 'Smoked Trout Fillet', 'price': 10.99, 'date': '2024-09-01', 'expiresAt': '2024-11-12'}]"
+11,Company_11,98696,food_industry,"[{'item': 'Beef Eye Round Roast', 'price': 12.59, 'date': '2024-09-11', 'expiresAt': '2025-01-11'}, {'item': 'Ground Beef (Lean)', 'price': 5.99, 'date': '2024-09-30', 'expiresAt': '2024-12-05'}, {'item': 'Sweet Corn', 'price': 1.39, 'date': '2024-09-06', 'expiresAt': '2024-11-08'}]"
+12,Company_12,98694,food_industry,"[{'item': 'Frankfurter Sausage', 'price': 4.99, 'date': '2024-09-06', 'expiresAt': '2024-10-05'}]"
+13,Company_13,98693,food_industry,"[{'item': 'Flax Seeds Milled 500g', 'price': 4.29, 'date': '2024-09-03', 'expiresAt': '2024-10-15'}, {'item': 'Canned Tuna Chunks in Oil', 'price': 2.39, 'date': '2024-09-15', 'expiresAt': '2026-06-22'}]"
+14,Company_14,98693,club,"[{'item': 'Parmesan Cheese, Grated', 'price': 5.99, 'date': '2024-09-02', 'expiresAt': '2025-02-15'}]"
+15,Company_15,98694,agriculture,"[{'item': 'Fresh Tuna Steak', 'price': 19.99, 'date': '2024-09-16', 'expiresAt': '2024-09-18'}, {'item': 'Baby Spinach', 'price': 3.99, 'date': '2024-09-16', 'expiresAt': '2024-09-27'}, {'item': 'Instant Oatmeal with Fruits and Nuts', 'price': 4.29, 'date': '2024-09-17', 'expiresAt': '2025-02-19'}]"
+16,Company_16,98696,restaurant,"[{'item': 'Rainbow Chard', 'price': 3.79, 'date': '2024-09-12', 'expiresAt': '2025-02-01'}, {'item': 'Limes', 'price': 0.59, 'date': '2024-09-23', 'expiresAt': '2024-12-05'}]"
+17,Company_17,98693,fruits_vendor,"[{'item': 'Organic Coconut Oil, Virgin', 'price': 5.99, 'date': '2024-09-23', 'expiresAt': '2025-03-12'}, {'item': 'Gouda Cheese', 'price': 5.29, 'date': '2024-09-23', 'expiresAt': '2024-12-15'}]"
+18,Company_18,98693,food_industry,"[{'item': 'Organic Grass-Fed Beef Patties', 'price': 7.99, 'date': '2024-09-15', 'expiresAt': '2024-12-15'}, {'item': 'Lentils, Green, 250g', 'price': 1.79, 'date': '2024-09-16', 'expiresAt': '2024-09-18'}, {'item': 'Fresh Red Snapper', 'price': 18.49, 'date': '2024-09-27', 'expiresAt': '2024-09-17'}]"
+19,Company_19,98694,club,"[{'item': 'Flax Seeds Milled 500g', 'price': 4.29, 'date': '2024-09-10', 'expiresAt': '2024-10-15'}, {'item': 'Pork Spare Ribs', 'price': 9.49, 'date': '2024-09-21', 'expiresAt': '2024-10-28'}]"
+20,Company_20,98694,club,"[{'item': 'Sunflower Seeds Shelled 500g', 'price': 3.49, 'date': '2024-09-19', 'expiresAt': '2024-12-05'}, {'item': 'Nectarines', 'price': 3.29, 'date': '2024-09-14', 'expiresAt': '2024-09-22'}, {'item': 'Green Beans', 'price': 2.69, 'date': '2024-09-05', 'expiresAt': '2024-09-25'}]"
+
+
+
+
+Restaurants and Cafes
+Fruits Vendors
+Clubs and Bars
+Bakeries and Pastry
+Food Industry
